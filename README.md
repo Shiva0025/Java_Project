@@ -272,10 +272,9 @@ Ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository**
-   ```powershell
-   git clone https://github.com/tatwik-sai/Serveez.git
+   ```bash
+   git clone https://github.com/Shiva0025/Serveez.git
    cd Serveez
-   ```
 
 2. **Configure Database**
    
@@ -315,7 +314,7 @@ mvn spring-boot:run
 java -jar target/serveez-0.0.1-SNAPSHOT.jar
 ```
 
-The application will start on **http://localhost:8080**
+The application will start on:  http://localhost:8080
 
 ### Verify Installation
 
